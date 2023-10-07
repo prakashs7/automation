@@ -22,8 +22,6 @@ public class SeleniumTest {
         action.moveToElement(products).build().perform();
         Thread.sleep(5000);
         }
-//        System.out.println("Title : "+driver.getTitle());
-//        Assert.assertEquals("How to Build and Execute Selenium Projects | BrowserStack",driver.getTitle(),"Fail");
-//        driver.quit();
+
 
     }
