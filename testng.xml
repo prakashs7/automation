@@ -1,10 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Comprehensive Assignment">
-    <test verbose="2" preserve-order="true" name="Test">
-        <classes>
-            <class name="AutomationAnywhereProductDelivery"/>
-            <class name="AutomationAnywherePRequestDemo"/>
-        </classes>
-    </test>
-</suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Prakash/ProjectFolder/TestProject/Sample_Selenium_Project"><classes><class name="org.test.ECommerceTest"><methods><include name="testECommerceScenario"/></methods></class></classes></test></suite>
